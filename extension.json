@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "apiVersion": "1.0.0",
+  "author": "Ryan Huffman",
+  "description": "",
+  "name": "Joy FeatherWing",
+  "extensions": {
+    "Joy FeatherWing": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "hla.JoyFeatherWingAnalyzer"
+    }
+  }
+}
